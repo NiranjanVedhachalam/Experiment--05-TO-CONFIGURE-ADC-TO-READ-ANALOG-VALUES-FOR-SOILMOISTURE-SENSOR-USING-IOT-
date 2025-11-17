@@ -431,6 +431,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ```
 
+## Output screen shot of soil moisture:
+
+<img width="963" height="1280" alt="image" src="https://github.com/user-attachments/assets/76c96744-3863-4fb2-a91d-9f981c1065a1" />
+
 
 
 ## Output screen shots on serial monitor   :
